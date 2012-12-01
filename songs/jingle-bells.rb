@@ -1,6 +1,15 @@
 require "rubygems"
 require "midi"
 
+# B3 B3 B3
+# B3 B3 B3
+# B3 D4 G3 A3
+# B3
+# C4 C4 C4 C4
+# C4 B3 B3 B3 B3
+# B3 A3 A3 B3
+# A3 D4
+
 o = UniMIDI::Output.open(:first)
 TEMPO   = 180
 QUARTER = 60 / TEMPO.to_f
