@@ -3,7 +3,7 @@ Music Programming Basics
 
 A couple of small examples that build up in stages teaching the basics of Ruby programming and MIDI output.
 
-This was designed for use buring CoderDojo sessions at The RoundHouse in Camden, London.
+This was originally designed for use during CoderDojo sessions at The RoundHouse in Camden, London.
 
 
 Setup
